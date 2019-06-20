@@ -58,6 +58,7 @@ div[role=textbox] {
 
 .container {
     max-width: 90%;
+    width: 42em;
     margin: 20% auto;
 }
 
