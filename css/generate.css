@@ -128,4 +128,9 @@ input[type="checkbox"]:checked + label:after {
     div[role=textbox] {
         max-width: 100%;
     }
+
+    .checkbox {
+        width: 10em;
+        margin: 0 auto;
+    }
   }
